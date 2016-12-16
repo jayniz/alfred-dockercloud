@@ -2,6 +2,8 @@
 
 Allows you to quickly jump to stacks on the new docker cloud web interface.
 
+![](https://dl.dropboxusercontent.com/u/1953503/Screenshots/alfred-docker-cloud.gif)
+
 ## Usage
 
 For this workflow to do its work, you need to be logged in to docker with the docker's CLI. If you're using docker hub or docker cloud, you're likely logged in already and this workflow will just work. If not, just log in to docker like this:
@@ -39,7 +41,7 @@ If you want to switch to an organization account on docker cloud (they call it a
 
 ```
 dc-organization acmecorp
-````
+```
 
 To switch back to your personal user account, just leave out the organization name:
 
