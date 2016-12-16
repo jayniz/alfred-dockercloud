@@ -1,6 +1,6 @@
 # Alfred docker cloud workflow
 
-Allows you to quickly jump to stacks on the new docker cloud web interface.
+Allows you to quickly jump to stacks on the new docker cloud web interface with fuzzy search and support for docker cloud organizations.
 
 ![](https://dl.dropboxusercontent.com/u/1953503/Screenshots/alfred-docker-cloud.gif)
 
